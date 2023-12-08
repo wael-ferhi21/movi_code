@@ -1,0 +1,24 @@
+body{
+    background-color: blue;
+    background: url(assets/360_F_181125818_cGv3Id6cwEDGv6UatGhwSoU669nnaW83.jpg);
+}
+
+button{
+
+    background-color: green;
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    
+}
+img{
+    width: 200px;
+}
+p {
+    display: none;
+    position: absolute;
+    
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid #333;
+}
