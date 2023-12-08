@@ -18,6 +18,11 @@ function moveRandomly() {
 }
 
 moveRandomly();
+function climat(){
+    let clim="bdihzegbdzeb";
+    document.querySelectorAll('p');
+    
+}
 
 const paragraphs = document.querySelectorAll('p');
 
@@ -30,6 +35,10 @@ function showParagraphs() {
         }, delay * (index + 1));
     });
 }
+
+
+
+
 
 showParagraphs();
 
